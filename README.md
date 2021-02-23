@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img width="" src="assets/screenshots/logos/logo_lsr.png">
+  <img width="" src="assets/logos/logo_lsr.png">
 </p>
 
 <br>
