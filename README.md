@@ -11,7 +11,7 @@
 
 O Live System Rescue é uma modificação do Linux Mint 20.01 XFCE a ideia aqui é criar um liveCD para o dia a dia com ferramentas para backup de arquivos, diagnostico de hardware, recuperação de arquivos, formatação de baixo nivel, remoção de viŕus e reparo do sistema.
 
-<br><br>
+<br>
 
 ### Visite a Wiki para ver com detalhes todas as categorias, lista de programas e screenshots.
 
